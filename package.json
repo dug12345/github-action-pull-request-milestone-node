@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dug12345/github-action-pull-request-milestone-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dug12345/github-action-pull-request-milestone-node/issues"
+  },
+  "homepage": "https://github.com/dug12345/github-action-pull-request-milestone-node#readme",
   "description": ""
 }
